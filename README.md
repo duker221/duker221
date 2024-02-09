@@ -17,7 +17,7 @@ When I'm not writing code, I love to listen to tech podcasts, try out recipes fr
 I am currently expanding my front-end knowledge at Hexlet, a well-respected coding bootcamp.
 
 ## 📫 How to reach me:
-- Let's connect on Telegram - dukin1
+- Let's connect on Telegram - @dukin1
 - For work enquiries, drop me an email at - dukin.misha22@gmail.com
 
 ## :muscle: Recent Projects:
