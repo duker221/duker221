@@ -24,6 +24,6 @@ I am currently expanding my front-end knowledge at Hexlet, a well-respected codi
 - [Differences Calculator](https://github.com/duker221/frontend-project-46) 
 - [Brain-Games](https://github.com/duker221/frontend-project-44) 
 -
-[Rss Aggregator] (https://github.com/duker221/frontend-project-11) 
+[RssAggregator](https://github.com/duker221/frontend-project-11) 
 
 Thanks for stopping by and I hope you enjoy exploring my work! 😊
