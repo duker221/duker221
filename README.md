@@ -21,10 +21,9 @@ I am currently expanding my front-end knowledge at Hexlet, a well-respected codi
 - For work enquiries, drop me an email at - dukin.misha22@gmail.com
 
 ## :muscle: Recent Projects:
-- [Differences Calculator](https://github.com/duker221/frontend-project-46) 
--
-[Brain-Games](https://github.com/duker221/frontend-project-44) 
--
-[RssAggregator](https://github.com/duker221/frontend-project-11) 
+- [Differences Calculator](https://github.com/duker221/frontend-project-46)
+- [Brain-Games](https://github.com/duker221/frontend-project-44)
+- [RssAggregator](https://github.com/duker221/frontend-project-11)
+
 
 Thanks for stopping by and I hope you enjoy exploring my work! 😊
